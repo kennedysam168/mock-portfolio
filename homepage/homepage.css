@@ -15,7 +15,7 @@ body {
     height: 100vh;
     margin: 0px;
     padding: 0px;
-    background: url(/Users/samkennedy/Desktop/mock-portfolio/wood-ring-GIF.gif) no-repeat center center fixed; 
+    background: url(./wood-ring-GIF.gif) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -39,6 +39,7 @@ body {
     border-radius: 5px;
     box-shadow: 6px 8px 8px rgb(105, 107, 117);
     display: flex;
+    background-color: honeydew !important;
 }
 
 .container-fluid {

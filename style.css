@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: 'Typewriter';
-    src: url(./another_typewriter/atwriter.ttf);
+    src: url(another_typewriter/atwriter.ttf);
 }
 
 .container {
